@@ -1,0 +1,8 @@
+{
+    "version": "V3.3",
+    "changelog": "Nový ticket systém, auto-update, opravy chyb",
+    "download_filename": "SteamGameInstaller_V3.3.exe",
+    "release_tag": "v3.3",
+    "required": false,
+    "release_date": "2026-02-14"
+}
